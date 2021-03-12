@@ -35,6 +35,7 @@ Transfer Learning:
 
 Below are the top results obtained after extensive exploratory research of more than 200 language models.
 
-![image](https://user-images.githubusercontent.com/35446640/110979591-cf34c680-838a-11eb-9fd1-04fb265a2af6.png)
+![image](https://user-images.githubusercontent.com/35446640/110979977-584bfd80-838b-11eb-89d2-6f8672d72bc4.png)
+
 
 Code refractoring is pending will be done in due time.
